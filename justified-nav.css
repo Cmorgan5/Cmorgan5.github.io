@@ -90,7 +90,7 @@ body {
 
 .jumbotron {
   /* image is from http://imgur.com/r/highres */
-  background-image:url(lolwallpaper.jpg);
+  background-image:url(http://img09.deviantart.net/d353/i/2014/022/0/d/league_of_legends_wallpaper_by_su_ke-d73cj12.jpg);
   height: 500px;
     width: 1000px;
   background-repeat: no-repeat;
@@ -99,7 +99,7 @@ body {
 
 .jumbotron2 {
     padding-top: 5px;
-    background-image:url(skyline.jpg);
+    background-image:url(http://atlantacir.org/wp-content/uploads/2013/05/atlanta-skyline-at-dusk.jpg);
   height: 500px;
     width: 1000px;
   background-repeat: no-repeat;
